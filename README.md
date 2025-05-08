@@ -29,7 +29,7 @@ The calculator supports the following operations on converted values:
 - Multiplication (×)
 - Division (÷)
 
-![Multiplication and Division Example](images/NumberSystem-Mult,Div.png)
+![Multiplication and Division Example](images\NumberSystem-Mult,Div.png)
 
 ## How to Use
 
